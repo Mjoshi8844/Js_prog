@@ -534,3 +534,12 @@
 // async function f() {
 //   throw new Error("Whoops!");
 // }
+
+// Event Loop
+// console.log('Hii');
+
+// setTimeout(()=>{
+//     console.log('There');
+// }, 0);
+
+// console.log('Maitri');
